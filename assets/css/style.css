@@ -6203,3 +6203,21 @@ del {
 .switch-wrap {
   margin-bottom: 10px;
 }
+
+.slider-area .hero__caption span {
+  color: white;
+  font-size: 22px;
+  letter-spacing: 2px;
+  margin: 2rem 0 0 0;
+  font-weight: bold;
+  font-style: italic;
+  font-family: "Berkshire Swash", cursive;
+}
+
+/* Media  Queries for Taglines */
+
+@media (min-width: 580px) {
+  .slider-area .hero__caption span {
+    font-size: 40px;
+  }
+}
