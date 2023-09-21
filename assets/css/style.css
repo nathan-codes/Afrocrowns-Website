@@ -6221,3 +6221,16 @@ del {
     font-size: 40px;
   }
 }
+
+@media (min-width: 580px) {
+  .btn-vendor {
+  margin-left: 2rem;
+  }
+}
+
+
+.btn-vendor {
+  background: none;
+  border: 1px solid white;
+
+}
